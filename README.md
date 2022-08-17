@@ -1,9 +1,14 @@
-# Getting Started with Create React App
+# Currency-Exchange-Rate-Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Synopsis
+This is my first React project. I made it 2 years ago (2019-2020). The interface looks ugly and the code is a pile of BS, but it has memorable value.
+<br /><br />
+It's so poor that I chose to wipe it from my brain back then. But now I'm happy to (re)discover this while organizing my account. Time flies :D
 
-## Available Scripts
+Last edited on 17 Aug 2022
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 In the project directory, you can run:
 
 ### `npm start`
@@ -68,3 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+## Frameworks
+React.js + Axios
+>>>>>>> parent of d94ad47 (Update README.md)
+=======
+## Frameworks
+React.js + Axios + Node.js
+>>>>>>> parent of 874f9b8 (Add files via upload)
