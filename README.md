@@ -9,6 +9,7 @@ Last edited on 17 Aug 2022
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 In the project directory, you can run:
 
 ### `npm start`
@@ -77,6 +78,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Frameworks
 React.js + Axios
 >>>>>>> parent of d94ad47 (Update README.md)
+=======
+## Frameworks
+React.js + Axios + Node.js
+>>>>>>> parent of 874f9b8 (Add files via upload)
 =======
 ## Frameworks
 React.js + Axios + Node.js
