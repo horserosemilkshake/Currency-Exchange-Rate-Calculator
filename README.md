@@ -8,4 +8,4 @@ It's so poor that I chose to wipe it from my brain back then. But now I'm happy 
 Last edited on 17 Aug 2022
 
 ## Frameworks
-React.js + Axios
+React.js + Axios + Node.js
